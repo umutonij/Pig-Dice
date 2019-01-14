@@ -1,5 +1,5 @@
 # PIG DICE
-#### Fourth Independent Project for Moringa prep class , January 14th, 2019
+* This is the  Fourth Independent Project for Moringa prep class , January 14th, 2019
 #### By **UMUTONI Jacqueline**
 
 ## Description
