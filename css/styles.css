@@ -69,7 +69,7 @@ html {
 }
 
 .winner {
-    background-image: url("../img/dice.gif");
+    background-image: url("../images/dice.gif");
     background-size: cover;
     /* height:5em; */
 }
