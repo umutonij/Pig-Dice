@@ -6,11 +6,7 @@ html {
     position: relative;
 }
 
-#navMain {
-    font-family: 'Happy Monkey';
-    font-size: 100%;
-    text-transform: uppercase;
-}
+
 
 #navMain .navbar-toggler {
     font-size: 14px;
