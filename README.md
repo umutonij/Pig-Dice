@@ -1,6 +1,6 @@
-# Pig-Dice
-#### Fourth Independent Project for Moringa prep class , April 8th, 2018
-#### By **Richard Waweru**
+# PIG DICE
+#### Fourth Independent Project for Moringa prep class , January 14th, 2019
+#### By **UMUTONI Jacqueline**
 
 ## Description
 The Pig-Dice game is a fun game based on two players rolling a dice.
@@ -30,8 +30,6 @@ An output of one results in a zero of accumulated points.
 ## Preview
 **[Click here](https://devwaweru.github.io/Pig-Dice)** to see the live site.
 
-## Known Bugs
-No bugs so far. If found, email me at developer.waweru@gmail.com
 
 ## Technologies Used
     1. HTML
@@ -41,7 +39,9 @@ No bugs so far. If found, email me at developer.waweru@gmail.com
     5. jQuery
 
 ## Support and contact details
-Contact me on developer.waweru@gmail.com for any comments, reviews or advice.
+For any comments, reviews or advice please Contact me on :
+. Email: **jacquelineumutoni13@gmail.com**
+. phone: **+250787683456**
 
 ### License
-Copyright (c) **Richard Waweru**
+Copyright (c) **UMUTONI Jacqueline**
