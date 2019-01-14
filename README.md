@@ -40,8 +40,8 @@ An output of one results in a zero of accumulated points.
 
 ## Support and contact details
 For any comments, reviews or advice please Contact me on :
-. Email: **jacquelineumutoni13@gmail.com**
-. phone: **+250787683456**
+* Email: **jacquelineumutoni13@gmail.com**
+* phone: **+250787683456**
 
 ### License
 Copyright (c) **UMUTONI Jacqueline**
