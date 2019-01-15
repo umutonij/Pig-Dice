@@ -1,5 +1,5 @@
 # PIG DICE
-* This is the  Fourth Independent Project for Moringa prep class , January 14th, 2019
+   This is the  Fourth Independent Project for Moringa prep class , January 14th, 2019
 #### By **UMUTONI Jacqueline**
 
 ## Description
@@ -16,14 +16,22 @@ When Hold is pressed, the accumulated points are added to the player's final Sco
 
 The other player then takes the die over.
 
-## Specifications
-The web application will request the names of two users.
+## EHAVIOUR DRIVEN DEVELOPMENT(BDD)
 
-The two players will proceed to roll the dice, by generating a random number from 1 to 6.
+* The web application will request the names of two users.
 
-If the output is not a 1, a player will continue to accumulate points and can hold in his discretion to add up to his/her final tally.
+* The two players will proceed to roll the dice, by generating a random number from 1 to 6.
+
+* If the output is not a 1, a player will continue to accumulate points and can hold in his discretion to add up to his/her final tally.
 
 An output of one results in a zero of accumulated points. 
+
+## Setup/Installation Requirements
+You would need the following to access the website:
+
+* Smart phone/PC/laptop/Desktop or Tablet.
+* A running network connection to the internet(either wireless or ethernet).
+* A web browser(Chrome is most recommendable).
 
 ### The first player to get 100 is the Winner!
 
@@ -39,6 +47,7 @@ An output of one results in a zero of accumulated points.
     5. jQuery
 
 ## Support and contact details
+
 For any comments, reviews or advice please Contact me on :
 * Email: **jacquelineumutoni13@gmail.com**
 * phone: **+250787683456**
