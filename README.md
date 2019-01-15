@@ -36,7 +36,7 @@ You would need the following to access the website:
 ### The first player to get 100 is the Winner!
 
 ## Preview
-**[Click here](https://devwaweru.github.io/Pig-Dice)** to see the live site.
+**[Click here](https://umutonij.github.io/Pig-Dice/)** to see the live site.
 
 
 ## Technologies Used
